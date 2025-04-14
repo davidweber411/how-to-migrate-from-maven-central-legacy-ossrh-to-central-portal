@@ -28,6 +28,14 @@ Read and understand the dialog and accept it:
 
 ### wip...
 
+### credentials into settings.xml
+
+### alter code in build.gradle
+
+### links:
+https://central.sonatype.org/publish/publish-portal-maven/
+
+https://jreleaser.org/guide/latest/examples/maven/maven-central.html#_portal_publisher_api
 
 
 
